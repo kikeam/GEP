@@ -1,0 +1,2 @@
+*{font-family:Helvetica,Arial,sans-serif}body{padding:60px}ul{list-style:none;margin:0;padding:0}.card img{max-height:100px;width:100%;overflow:hidden}.card{display:flex;flex-direction:column;justify-content:space-around;border:1px solid grey}.card p{padding:5px;text-align:center;margin:0}.card-container{display:grid;grid-template-columns:repeat(5,19%);grid-gap:1.25%;gap:1.25%}
+/*# sourceMappingURL=main.74f65177.chunk.css.map */
